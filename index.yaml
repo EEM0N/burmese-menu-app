@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  kntchart:
+  - apiVersion: v2
+    name: burmese-menu-app
+    version: 0.1.0
+    appVersion: "0.1.0"
+    description: A Helm chart for burmese menu application
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/EEM0N/burmese-menu-app/main/burmese-menu-app-0.1.0.tgz
