@@ -1,6 +1,6 @@
 apiVersion: v1
 entries:
-  burmsesechart:
+  burmesechart:
   - apiVersion: v2
     name: burmese-menu-app
     version: 0.1.0
